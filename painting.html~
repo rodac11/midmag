@@ -4,11 +4,14 @@
 <!-- Style sheet below
      ensure 30m for poetry
   -->
-<style>  
+<style>
+  
   #content {max-width: 50em; margin: auto;}
   .title {text-align: center;
 	  margin-bottom: 1em;
 	 }
+  
+
 </style>
 
 </head>
