@@ -1,5 +1,15 @@
-html {
+html{
     background-color: black;
-    font-color: white;
-    font-size: 20px;  
+    color: white;
+    font-size: 18px;
+    
+
+}
+
+a:link {
+    color: cyan;
+}
+
+a:visited {
+    color: darkgrey;
 }
