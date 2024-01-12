@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+<title>Background Music</title>
+<!-- Style sheet below
+     ensure 30m for poetry
+  -->
+<style>  
+  #content {max-width: 50em; margin: auto;}
+  .title {text-align: center;
+	  margin-bottom: 1em;
+	 }
+   #foot {text-align: right;
+	   max-width: 50em;
+	   margin-top: 3em;
+	  }
+</style>
+<link rel ="stylesheet" href="../midstyle.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Background Music</h1>
+<p>
+<i>To Miguel and Fernando</i>
+</p>
+
+<p>
+"Pones canciones tristes para sentirte mejor."
+</p>
+
+<p>
+My two brothers and I go out for drives. We go to the mall and we drink cofffee. The youngest one is the driver. The oldest one plays the music. I sit in the back. Never in my life have I been as quiet as I have in this season of drives, of drinks in boring places, of looking and looking and listening to music. Maybe there's nothing new for me to say. Maybe I'm still afraid. As a kid, I talked the most. All I do is watch you two walk ahead of me. All we do is go out to bars and makes sure we're not missing out on anything good, which we already know we aren't. All we do is listen to music that no one in this city has heard before. That's enough sometimes.
+</p>
+
+<p>
+One time I went to renew my passport and you came with me. I won't have to do that until the year 2034. It seemed far to us. Getting out of the parking lot, we started counting on our fingers all the wars that could come up in that time. If Honduras is still here by 2034, we said. I paid for parking and we all went for burgers.
+</p>
+
+<p>
+Another time we drank a lot and that helped us talk more, and more honestly, to each other. I see a little bit of me in you two, and a lot from our parents in you two, but most of all I see bits of you that don't come from anyone else, and those are the bits that give me all sorts of hopes about what it means to be me, and what it means for us to be brothers.
+</p>
+
+<p>
+I want to catch and capture all the colors and all the noises and all the clothes we were but I know it won't matter. I know that in five years or in seven years or in two weeks (same thing) I'll remember <i>something</i>, better said, a memory will force me to stare at it head-on and I will see you two as I see you right now, from the corner of my eye, pointing at albums, distant, and real as mountains. And I will cry. Sorry, you too, I'll cry first or I'll cry the most!
+</p>
+
+<p>
+When we come home we'll eat chicken and rice and play with our two cats. We'll close a thought about music and about next week and we'll each go to our rooms. Every now and then I stop what I'm doing and wonder what you two are doing. Sometimes I can hear your music playing through the closed doors. I like to believe that you also stop and listen. Maybe even at the same time. We're each other's background music. But we won't say that to each other.
+</p>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2024-01-11 Thu 20:35</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
