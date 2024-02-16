@@ -1,16 +1,11 @@
 # midmag
 Mid Magazine is an open-source literary project created in 2023, by Rodrigo (owner of the repo). Mid Mag is a place where writers and poets can freely share their work with others, and where everyone can contribute everything: you can submit your original work in fiction, nonfiction, and poetry; you can suggest edits to submitted work; you can contribute art related to submitted work; you can contribute code to the website.
-The project is meant to bring literature and open-source ideals together.
 
 ## Read Mid
 The website is live [here](https://rodac11.github.io/midmag/), which you can browse as you would any website. If you want, you can also clone the repository browse it in your text reader of choice.
 
 ## Who Should Contribute
 Everyone, in any way you'd like.
-
-I strongly encourage anyone who feels unsure about sharing their work to submit it here. If anything, you'll get some experience working with editors (which is a good skill to have) and you'll have a website where you can send people to read your stuff.
-
-I also encourage anyone who wants to contribute to open-source projects or just wants to do some light programming to also help out. The site is really bare-bones but it doesn't have to be.
 
 ## How to Contribute
 There are two Google Forms for both submitting works and general inquiry. If you're familiar with GitHub, you can also make pull requests from there. If you're thinking of submitting, though, it's preferable to reach out first.
